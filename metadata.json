@@ -1,0 +1,6 @@
+{
+  "name": "ViralForge AI",
+  "description": "Short-form video strategy, viral hooks, time-coded script breakdowns, and SEO metadata generator for TikTok, Instagram Reels, and YouTube Shorts creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
